@@ -9,13 +9,13 @@
  *
  *****************************************************************************/
 /**
- * @file <stats.c> 
- * @brief <This file contains implementation of all statistics related functions.>
+ * @file <Add File Name> 
+ * @brief <Add Brief Description Here >
  *
  * <Add Extended Description Here>
  *
- * @author <Ishan Kansara>
- * @date <17/10/2019>
+ * @author <Add FirsName LastName>
+ * @date <Add date >
  *
  */
 
@@ -27,9 +27,6 @@
 /* Size of the Data Set */
 #define SIZE (40)
 
-
-
-
 void main() {
 
   unsigned char test[SIZE] = { 34, 201, 190, 154,   8, 194,   2,   6,
@@ -40,7 +37,6 @@ void main() {
 
   /* Other Variable Declarations Go Here */
   /* Statistics and Printing Functions Go Here */
-
 
 }
 
